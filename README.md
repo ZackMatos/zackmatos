@@ -9,9 +9,9 @@ Estou a procura do primeiro emprego como programador, tendo maior conhecimento n
 <h1></h1>
 <div>
 <a href="https://github.com/ZackMatos">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=ZackMatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackMatos&layout=compact&langs_count=7&theme=dark"/>
-<div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZackMatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZackMatos&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
