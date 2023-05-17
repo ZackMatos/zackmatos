@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1> Olá, eu sou Isaque Matos!✌️</h1>
+
+Estou a procura do primeiro emprego como programador, tendo maior conhecimento na área de back-end.
+<p> No momento estou aprendendo HTML, CSS e Javascript para ter um conhecimento em front-end e talvez virar um programador Full-Stack. Estou me aperfeiçoando também nas áreas que já conheço.
+<p> Tecnologias que tenho conhecimento:
+  <br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width ="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40px"/>
+<h1></h1>
+
+
+![Isaque GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackMatos&show_icons=true&theme=tokyonight)
+
 
 <!--
 **zackmatos/zackmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
