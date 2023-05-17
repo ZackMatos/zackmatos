@@ -8,8 +8,9 @@ Estou a procura do primeiro emprego como programador, tendo maior conhecimento n
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "40px"/>
 <h1></h1>
 
+![Isaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackMatos&show_icons=true&theme=radical)
 
-![Isaque GitHub stats](https://github-readme-stats.vercel.app/api?username=ZackMatos&show_icons=true&theme=tokyonight)
+
 
 
 <!--
